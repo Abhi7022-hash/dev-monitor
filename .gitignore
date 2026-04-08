@@ -1,0 +1,9 @@
+# Ignore log files — we dont want to push reports to GitHub
+logs/
+
+# Ignore any secret config
+secrets.txt
+
+# Ignore system files
+.DS_Store
+*.tmp
